@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.tbl1 {
+	border-spacing: 0px;
+	border-collapse: collapse;
+	border: 2px solid white;
+	width : 70%;
+	margin: 0 auto;
+	background-color: #F0F8FF;
+}
+
+.tb1_h {
+	background-color: #778899;
+	color : white;
+	font-weight: bold;
+	border: 2px solid white;
+}
+
+.tbl2 {
+	
+	border : 2px solid IndianRed;
+	width: 70%;
+	margin: 0 auto;
+	padding : 10px;
+	background: #FA8072
+	
+}
+
+.tb2_h {
+	border: 2px dashed IndianRed;
+	background-color: DarkSalmon;
+	color: AntiqueWhite;
+	
+}
+
+.tbl2_tr {
+	background-color: #FFF5EE;
+}
